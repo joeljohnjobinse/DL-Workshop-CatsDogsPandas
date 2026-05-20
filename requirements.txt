@@ -1,0 +1,14 @@
+## requirements.txt
+
+```txt
+torch
+torchvision
+torchaudio
+numpy
+matplotlib
+seaborn
+scikit-learn
+pillow
+kaggle
+jupyter
+ipykernel
